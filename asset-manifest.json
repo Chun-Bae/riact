@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/riact/static/js/main.abe59c1f.js",
+    "index.html": "/riact/index.html",
+    "main.abe59c1f.js.map": "/riact/static/js/main.abe59c1f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.abe59c1f.js"
+  ]
+}
